@@ -1,3 +1,3 @@
 # menoni-ws-packages
 
-[Packages](https://github.com/WouterG/menoni-ws-packages/packages)
+[Packages](https://github.com/MenoniProjects/menoni-ws-packages/packages)
